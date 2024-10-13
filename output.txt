@@ -1,0 +1,13 @@
+Naive Bayes Accuracy: 79.71014492753623
+
+Decision Tree Accuracy: 72.46376811594203
+
+SVM Accuracy: 78.62318840579711
+
+Rule Induction Accuracy: 77.53623188405797
+Rule Induction Accuracy: 77.53623188405797
+
+Decision Tree Accuracy: 72.46376811594203
+
+SVM Accuracy: 78.62318840579711
+
